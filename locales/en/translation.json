@@ -1,0 +1,16 @@
+{
+  "globals": {
+    "clock": "Uhr",
+    "at": "Am",
+    "from": "Ab",
+    "ticketsFrom": "Tickets ab"
+  },
+  "eventListPage": {
+    "headline": "Tickets für Bootshaus",
+    "buttonTickets": "Zu den Tickets",
+    "view": "Ansicht"
+  },
+  "calenderView": {
+    "headline": "Kalender"
+  }
+}
