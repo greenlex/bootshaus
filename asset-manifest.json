@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/bootshaus/static/js/main.8535c47f.js",
+    "main.js": "/bootshaus/static/js/main.1db0f53e.js",
     "static/media/Vazirmatn-Bold.ttf": "/bootshaus/static/media/Vazirmatn-Bold.439dd834c3b0f95081d9.ttf",
     "static/media/Vazirmatn-SemiBold.ttf": "/bootshaus/static/media/Vazirmatn-SemiBold.1e73063bff5bd2007126.ttf",
     "static/media/Vazirmatn-Medium.ttf": "/bootshaus/static/media/Vazirmatn-Medium.de9813962e8557e2d424.ttf",
@@ -9,9 +9,9 @@
     "static/media/logo.png": "/bootshaus/static/media/logo.7c779445e377aad3b99e.png",
     "index.html": "/bootshaus/index.html",
     "static/media/getFetch.cjs": "/bootshaus/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.8535c47f.js.map": "/bootshaus/static/js/main.8535c47f.js.map"
+    "main.1db0f53e.js.map": "/bootshaus/static/js/main.1db0f53e.js.map"
   },
   "entrypoints": [
-    "static/js/main.8535c47f.js"
+    "static/js/main.1db0f53e.js"
   ]
 }
